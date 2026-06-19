@@ -2,39 +2,39 @@
   "business": {
     "name": "Asher Auto Care",
     "shortName": "Asher Auto",
-    "tagline": "Dallas's Trusted Auto Repair Experts",
+    "tagline": "Elite Auto Repair in Dallas, TX",
     "niche": "Auto Mechanic",
     "phone": "(214) 617-5482",
-    "address": "Dallas, TX",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 7:00 AM - 6:00 PM, Sat: 8:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule Your Appointment",
+    "hours": "Mon-Fri 7:30am-6pm, Sat 8am-2pm",
+    "ctaLabel": "Schedule Service",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Asher Auto Care | Top-Rated Auto Mechanic in Dallas, TX | (214) 617-5482",
-    "description": "Asher Auto Care provides expert auto repair, diagnostics, and maintenance in Dallas, TX. 4.9-star rated. Call (214) 617-5482 for reliable service."
+    "title": "Asher Auto Care | Trusted Auto Mechanic in Dallas, TX | 4.9 Star Service",
+    "description": "Asher Auto Care in Dallas offers expert auto repair, maintenance, and diagnostics. 4.9 rated mechanic. Call (214) 617-5482 for honest, quality service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Auto Repair",
-      "headline": "Expert Auto Care You Can Trust",
-      "subheadline": "From routine maintenance to major repairs, our certified technicians deliver quality workmanship and transparent service. Rated 4.9 stars by our customers.",
-      "primaryCta": "Schedule Service",
+      "eyebrow": "Dallas's Premier Auto Repair Shop",
+      "headline": "Reliable, Honest, and Expert Auto Care in Dallas",
+      "subheadline": "From routine maintenance to complex repairs, we treat your car like our own.",
+      "primaryCta": "Schedule an Appointment",
       "secondaryCta": "Call (214) 617-5482"
     },
     "stats": [
       {
         "value": "4.9",
-        "label": "Star Rating"
+        "label": "Average Customer Rating"
       },
       {
         "value": "500+",
-        "label": "Vehicles Serviced"
+        "label": "5-Star Reviews"
       },
       {
         "value": "15+",
-        "label": "Years Experience"
+        "label": "Years Combined Experience"
       },
       {
         "value": "100%",
@@ -43,92 +43,92 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Comprehensive Diagnostics",
-        "title": "State-of-the-Art Diagnostic Equipment",
-        "body": "We use advanced diagnostic tools to quickly identify issues, saving you time and money. Our technicians explain every finding in plain language.",
+        "eyebrow": "Expert Diagnostics",
+        "title": "Advanced Diagnostics for Every Vehicle",
+        "body": "Our state-of-the-art diagnostic equipment quickly identifies issues, saving you time and money. We explain what's wrong and what's needed upfront.",
         "bullets": [
-          "Computerized engine analysis",
-          "Transmission & drivetrain diagnostics",
-          "Electrical system testing",
-          "Brake & suspension inspection"
+          "Computerized engine scanning",
+          "Electrical system analysis",
+          "AC performance testing",
+          "Brake and suspension inspection"
         ],
         "reverse": false,
-        "cardLabel": "Transparency",
-        "cardTitle": "No Surprises",
-        "cardBody": "We provide detailed estimates before any work begins, so you know exactly what to expect."
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Transparent Communication",
+        "cardBody": "We provide a detailed estimate before any work begins, so you never face surprises."
       },
       {
-        "eyebrow": "Preventative Maintenance",
+        "eyebrow": "Full-Service Maintenance",
         "title": "Keep Your Car Running Smoothly",
-        "body": "Regular maintenance extends the life of your vehicle and prevents costly breakdowns. Our custom maintenance plans fit your driving habits and budget.",
+        "body": "From oil changes to brake replacements, we handle all preventive maintenance to extend your vehicle's life and performance.",
         "bullets": [
-          "Oil changes & fluid checks",
-          "Tire rotations & alignments",
-          "Brake pad replacement",
-          "Belt & hose inspections"
+          "Oil changes with synthetic options",
+          "Brake pad and rotor replacement",
+          "Tire rotation and balancing",
+          "Fluid flushes and inspections"
         ],
         "reverse": true,
-        "cardLabel": "Peace of Mind",
-        "cardTitle": "Warranty Included",
-        "cardBody": "All repairs come with a 12-month/12,000-mile warranty for your confidence."
+        "cardLabel": "Quality Parts",
+        "cardTitle": "OEM and Premium Components",
+        "cardBody": "We use only high-quality parts that meet or exceed manufacturer standards."
       }
     ],
     "whyTitle": "Why Choose Asher Auto Care?",
     "whyChooseUs": [
       {
         "title": "Certified Technicians",
-        "description": "Our ASE-certified mechanics have extensive training and stay current with the latest automotive technology."
+        "description": "Our team holds ASE certifications and undergoes continuous training to stay current with automotive technology."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "We provide upfront, honest pricing with no hidden fees. You approve all work before we begin."
+        "title": "Fair Pricing",
+        "description": "We offer competitive rates with no hidden fees. You get a clear estimate before we start."
       },
       {
         "title": "Fast Turnaround",
-        "description": "Most services completed same-day. We respect your time and get you back on the road quickly."
+        "description": "Most services completed same-day. We respect your time and keep you updated."
       },
       {
-        "title": "Customer Satisfaction",
-        "description": "We stand behind our work with a 100% satisfaction guarantee and a 12-month warranty on all repairs."
+        "title": "Warranty on Repairs",
+        "description": "All parts and labor come with a solid warranty for your peace of mind."
       }
     ],
     "testimonials": [
       {
-        "quote": "Asher Auto Care diagnosed an issue two other shops missed. They fixed it quickly and at a fair price. I'll never go anywhere else.",
+        "quote": "Asher Auto Care diagnosed a problem two other shops missed. They fixed it right and the price was very fair. I'm a customer for life.",
         "author": "Mike R.",
-        "role": "Lakewood resident"
+        "role": "Oak Lawn resident"
       },
       {
-        "quote": "Professional, honest, and thorough. They explained everything and even showed me pictures of the worn parts. Highly recommend!",
+        "quote": "I brought my SUV for a brake job and was amazed at how quick and thorough they were. The car feels brand new. Highly recommend!",
         "author": "Jessica T.",
-        "role": "Uptown commuter"
+        "role": "Lakewood driver"
       },
       {
-        "quote": "I brought my old truck in for a full inspection. They gave me a detailed report and prioritized what needed fixing. Great service.",
-        "author": "David L.",
-        "role": "Oak Lawn homeowner"
+        "quote": "Honest mechanics are hard to find. Asher Auto explained everything in plain English and didn't try to upsell me. Great experience.",
+        "author": "David K.",
+        "role": "Uptown professional"
       }
     ],
     "cta": {
       "headline": "Ready for Reliable Auto Care?",
-      "subheadline": "Schedule your appointment today and experience the Asher Auto difference.",
-      "primaryCta": "Book Online",
+      "subheadline": "Schedule your appointment today and experience the Asher difference.",
+      "primaryCta": "Book Now",
       "secondaryCta": "Call (214) 617-5482"
     }
   },
   "servicesPage": {
-    "intro": "At Asher Auto Care, we offer a full range of auto repair and maintenance services for all makes and models. Our skilled technicians use top-tier equipment and genuine parts to keep your vehicle running at its best."
+    "intro": "Asher Auto Care offers a comprehensive range of auto repair and maintenance services in Dallas. Whether you need a simple oil change or a major engine repair, our certified technicians deliver quality workmanship and transparent service."
   },
   "services": [
     {
       "icon": "01",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Expert engine diagnostics and repair using advanced equipment.",
-      "longDescription": "From check engine lights to performance issues, our technicians pinpoint the root cause and perform precise repairs. We service all makes and models, using OEM or equivalent parts.",
+      "shortDescription": "Accurate diagnostics and expert repairs for check engine lights, performance issues, and more.",
+      "longDescription": "Our advanced diagnostic tools pinpoint engine problems quickly. We repair everything from sensor failures to major overhauls, using quality parts to restore performance.",
       "benefits": [
-        "Accurate diagnostics reduce guesswork and cost",
-        "Restored engine performance and fuel efficiency",
-        "Extended engine lifespan with proper repairs"
+        "Fast and accurate diagnostics",
+        "Transparent pricing with no guesswork",
+        "Long-lasting repairs backed by warranty"
       ],
       "process": [
         {
@@ -137,21 +137,21 @@
         },
         {
           "title": "Thorough Inspection",
-          "description": "Our tech inspects related components and test-drives your car to confirm the issue."
+          "description": "Our technician inspects related components to confirm the root cause."
         },
         {
           "title": "Repair & Verification",
-          "description": "We perform the repair and re-test to ensure everything is operating correctly."
+          "description": "We perform the repair and test-drive to ensure everything runs perfectly."
         }
       ],
       "faqs": [
         {
-          "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics take about an hour. Complex issues may require additional time."
+          "question": "How much does an engine diagnostic cost?",
+          "answer": "Our diagnostic fee is $99, which is applied to any repair you approve."
         },
         {
-          "question": "Do you offer a warranty on engine repairs?",
-          "answer": "Yes, all engine repairs come with a 12-month/12,000-mile warranty."
+          "question": "Can you fix a check engine light quickly?",
+          "answer": "Most diagnostic appointments are completed within an hour, and many repairs can be done the same day."
         }
       ],
       "slug": "engine-diagnostics-repair"
@@ -159,118 +159,118 @@
     {
       "icon": "02",
       "title": "Brake Services",
-      "shortDescription": "Complete brake inspection, repair, and replacement.",
-      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid, then recommend the best solution. We use quality parts to ensure stopping power.",
+      "shortDescription": "Complete brake inspection, repair, and replacement for safety and performance.",
+      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid, then recommend the best solution. Whether it's a simple pad swap or a full rotor replacement, we ensure stopping power you can trust.",
       "benefits": [
         "Enhanced safety and stopping distance",
-        "Reduced noise and vibration",
-        "Long-lasting brake components"
+        "Quiet, smooth braking performance",
+        "Long-lasting components with warranty"
       ],
       "process": [
         {
           "title": "Brake Inspection",
-          "description": "We measure pad thickness, rotor condition, and fluid level."
+          "description": "We measure pad thickness, rotor condition, and check fluid levels."
         },
         {
-          "title": "Component Replacement",
-          "description": "We replace worn parts with high-quality alternatives."
+          "title": "Recommendation",
+          "description": "We explain what needs replacement and provide a clear estimate."
         },
         {
-          "title": "System Test",
-          "description": "We test the brakes on the road to confirm proper operation."
+          "title": "Installation & Test",
+          "description": "We install quality parts and test the brakes on the road."
         }
       ],
       "faqs": [
         {
           "question": "How often should I replace brake pads?",
-          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits."
+          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits. We check them during every visit."
         },
         {
-          "question": "What are signs of brake problems?",
-          "answer": "Squeaking, grinding, vibration, or a soft pedal indicate issues."
+          "question": "Do you use OEM or aftermarket parts?",
+          "answer": "We offer both options, but we recommend high-quality aftermarket or OEM parts for best performance."
         }
       ],
       "slug": "brake-services"
     },
     {
       "icon": "03",
-      "title": "Oil Changes & Fluid Services",
-      "shortDescription": "Regular oil changes and fluid maintenance to protect your engine.",
-      "longDescription": "We offer conventional, synthetic blend, and full synthetic oil changes. We also check and top off all fluids, including coolant, transmission, brake, and power steering.",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Regular oil changes and fluid flushes to keep your engine healthy.",
+      "longDescription": "Routine oil changes are the best way to extend engine life. We use premium synthetic and conventional oils, plus we check all other fluids and top them off. We also offer transmission, coolant, and brake fluid flushes.",
       "benefits": [
-        "Prevents engine wear and overheating",
-        "Improves fuel economy",
-        "Extends engine life"
+        "Improved engine performance and longevity",
+        "Prevents costly repairs down the road",
+        "Quick service, often under 30 minutes"
       ],
       "process": [
         {
           "title": "Drain Old Oil",
-          "description": "We remove the old oil and replace the filter."
+          "description": "We drain the old oil and replace the filter."
         },
         {
-          "title": "Refill with Fresh Oil",
-          "description": "We add the correct oil type and amount for your vehicle."
+          "title": "Refill with Quality Oil",
+          "description": "We add the correct grade and amount of oil for your vehicle."
         },
         {
-          "title": "Fluid Check",
-          "description": "We inspect all other fluid levels and top off as needed."
+          "title": "Multi-Point Inspection",
+          "description": "We check fluids, belts, hoses, and tire pressure."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I get an oil change?",
-          "answer": "Every 3,000-5,000 miles for conventional oil, up to 7,500 for synthetic."
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic oils from top brands like Mobil 1 and Valvoline."
         },
         {
-          "question": "Can I switch from conventional to synthetic?",
-          "answer": "Yes, we can safely switch your vehicle to synthetic oil."
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern cars need oil every 5,000-7,500 miles. Consult your owner's manual or ask our technicians."
         }
       ],
-      "slug": "oil-changes-fluid-services"
+      "slug": "oil-change-fluid-services"
     },
     {
       "icon": "04",
-      "title": "Tire Services",
-      "shortDescription": "Tire rotation, alignment, and replacement.",
-      "longDescription": "Proper tire maintenance ensures safety, handling, and fuel efficiency. We offer rotation, balancing, alignment, and new tire installation from top brands.",
+      "title": "AC & Heating Repair",
+      "shortDescription": "Keep your cabin comfortable with professional AC and heating system service.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. Our technicians diagnose and repair all climate control issues, from refrigerant leaks to blower motor failures. We restore comfort quickly.",
       "benefits": [
-        "Even tire wear for longer tire life",
-        "Better handling and ride comfort",
-        "Improved fuel economy"
+        "Comfortable driving year-round",
+        "Efficient system operation saves fuel",
+        "Expert diagnosis of complex electrical issues"
       ],
       "process": [
         {
-          "title": "Inspection",
-          "description": "We check tread depth, pressure, and overall condition."
+          "title": "System Check",
+          "description": "We test pressures, temperatures, and airflow to identify the problem."
         },
         {
-          "title": "Service",
-          "description": "We perform rotation, balancing, or alignment as needed."
+          "title": "Leak Detection",
+          "description": "Using UV dye and electronic detectors, we find refrigerant leaks."
         },
         {
-          "title": "Final Check",
-          "description": "We verify pressure and test drive to ensure proper feel."
+          "title": "Repair & Recharge",
+          "description": "We fix the issue and recharge the system to manufacturer specs."
         }
       ],
       "faqs": [
         {
-          "question": "How often should tires be rotated?",
-          "answer": "Every 5,000-7,000 miles, or at each oil change."
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We can diagnose it accurately."
         },
         {
-          "question": "Do you sell tires?",
-          "answer": "Yes, we offer a variety of brands and can order specific tires for your vehicle."
+          "question": "How much does an AC recharge cost?",
+          "answer": "Prices vary by vehicle, but a basic recharge starts at $149. We provide a full estimate after inspection."
         }
       ],
-      "slug": "tire-services"
+      "slug": "ac-heating-repair"
     }
   ],
   "about": {
-    "headline": "Your Trusted Auto Repair Partner in Dallas",
-    "mission": "Our mission is to provide honest, high-quality auto repair services that keep our community safe and mobile. We believe in transparency, education, and building long-term relationships with our customers.",
+    "headline": "Dallas's Trusted Auto Care Team",
+    "mission": "To provide honest, high-quality auto repair that keeps Dallas drivers safe and satisfied.",
     "story": [
-      "Asher Auto Care was founded on the belief that car repairs shouldn't be a hassle. With over 15 years of experience in the automotive industry, our founder saw the need for a shop that prioritizes customer trust and technical excellence. We opened our doors in Dallas with a simple promise: diagnose accurately, fix right, and treat every customer like family.",
-      "Today, we've served hundreds of vehicles in the Dallas area, earning a 4.9-star rating through our commitment to quality. Our team continues to invest in training and equipment to stay ahead of automotive technology. We're proud to be a local business that gives back to the community we serve."
+      "Asher Auto Care was founded with a simple mission: bring integrity back to auto repair. Our founder, a master technician with over 15 years of experience, saw too many customers being overcharged for unnecessary work. He built a shop where transparency and quality come first. Today, we serve the Dallas community with the same values: honesty, expertise, and a commitment to doing the job right the first time.",
+      "Our team of ASE-certified technicians uses the latest diagnostic tools and high-quality parts to service all makes and models. We treat every customer like a neighbor, explaining repairs in plain language and offering fair, upfront pricing. Whether you need a quick oil change or a major engine repair, we treat your car with the same care we would our own."
     ],
     "highlight": {
       "stat": "4.9",
@@ -279,40 +279,40 @@
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell the truth about what your car needs and what it doesn't."
+        "description": "We never recommend unnecessary repairs. Our estimates are honest and transparent."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
+        "description": "We use premium parts and follow manufacturer specifications for every repair."
       },
       {
-        "title": "Respect",
-        "description": "We treat your time and money with respect, providing clear communication and fair pricing."
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our priority. We communicate clearly and keep you informed."
       },
       {
-        "title": "Community",
-        "description": "We support local events and strive to be a positive force in Dallas."
+        "title": "Continuous Learning",
+        "description": "Our technicians stay up-to-date with the latest automotive technology through ongoing training."
       }
     ]
   },
   "contact": {
-    "headline": "Get In Touch",
-    "subheadline": "Ready to schedule? Call or fill out the form below, and we'll get back to you quickly.",
+    "headline": "Get in Touch with Asher Auto Care",
+    "subheadline": "Ready to schedule service? Call us or fill out the form below.",
     "primaryCta": "Call (214) 617-5482",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Highland Park",
       "University Park",
+      "Oak Lawn",
       "Lakewood",
       "Uptown",
-      "Oak Lawn",
       "Preston Hollow"
     ]
   },
   "social_proof": {
     "rating": 4.9,
-    "reviews": ""
+    "reviews": null
   },
   "meta": {
     "niche": "Auto Mechanic",
